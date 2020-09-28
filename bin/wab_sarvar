@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "wab_sarvar"
+
+WabSarvar::HTTPServer.start
